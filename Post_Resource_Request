@@ -1,0 +1,21 @@
+# Post Resource Request
+
+## User Story
+
+As a student, I want to post a request for learning resources on a specific topic so that peers can recommend suitable resources.
+
+## Feature Description
+
+This feature allows students to create a learning resource request by specifying the topic and describing the type of resource they need.
+
+## Proposed Details
+
+- Enter the topic.
+- Describe the required learning resource.
+- Submit the request.
+- Allow peers to view the request.
+- Allow peers to recommend suitable resources.
+
+## Expected Outcome
+
+Students can easily request learning materials and receive useful recommendations from their peers.
